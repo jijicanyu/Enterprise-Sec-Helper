@@ -5,6 +5,8 @@
 
 **本仓库做为每日推送消息的备份数据库**
 
+<img src="https://github.com/We5ter/Common-Vuls-Db/blob/master/qrcode_for_gh_ada8f4239586_258.jpg" style="padding-left:160px;padding-bottom:15px;">
+<span style="text-align:center">关注公众号，即刻构筑企业安全防线</span>
 
 <hr>
 
