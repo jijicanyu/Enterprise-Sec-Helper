@@ -13,3 +13,5 @@
 
 仓库与公众号维护
 **Wester**(sina weibo:<a href="http://weibo.com/zzyme" target="_blank">@西风微雨_Wester</a>) && **Martin**(sina weibo:<a href="http://weibo.com/u/1312149403" target="_blank">@Mart1n_ZHOU</a>)
+
+&copy;CNSISMO 2017-2017
