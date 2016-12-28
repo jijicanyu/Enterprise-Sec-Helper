@@ -1,3 +1,5 @@
+#Enterprise-Sec-Helper
+
 ###简介
 
 做一个只有通用组件漏洞、威胁情报发布，没有业界新闻、活动发布、人物采访的互联网企业安全应急助手
@@ -8,7 +10,7 @@
 
 **关注以下公众号，即刻为企业安全防线添砖加瓦**
 
-<img src="https://github.com/We5ter/Common-Vuls-Db/blob/master/qrcode_for_gh_ada8f4239586_258.jpg" style="padding-left:160px;padding-bottom:15px;">
+<img src="https://github.com/We5ter/Common-Vuls-Db/blob/master/qrcode_for_gh_ada8f4239586_258.jpg">
 
 <hr>
 
